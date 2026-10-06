@@ -5,7 +5,7 @@ slug: qianjin-logo-gen
 displayName: 专业Logo生成引擎
 summary: "WorkBuddy 专业 Logo/标识/图标生成引擎：把图像模型切到专为设计生的模型（硅基流动 SiliconFlow 国内直连免费、豆包 Seedream、通义万相、Recraft 原生产 SVG、OpenAI gpt-image-1、Ideogram），并将「三层锁定」提示词框架（genre 风格锚定 / style 形态约束 / no-text 应用约束）固化为参数，默认追加扁平矢量、禁用渐变3D等专业约束。密钥仅从环境变量读取，绝不落代码。"
 description: 用「Logo 专用」图像模型在 WorkBuddy 里生成专业级 Logo/标识/图标。支持硅基流动 SiliconFlow（国内直连、OpenAI 兼容、模型多、用户已有券可免费）、豆包 Seedream、通义万相、Recraft（原生产 SVG 矢量）、OpenAI gpt-image-1、Ideogram。把前进公众号「三层锁定」提示词框架固化成参数（genre 风格锚定 / style 形态约束 / no-text 应用约束），默认追加扁平矢量、禁用渐变3D等专业约束。当用户想在 WorkBuddy 做 Logo、品牌标识、公众号头像、图标，或抱怨通用模型（如 Agnes）做不出好 Logo 时使用。密钥仅从环境变量读取，绝不落代码。
-version: 1.0.0
+version: 1.0.1
 category: 设计创作
 platforms: [workbuddy, claude-code, cursor, windsurf, codex, linux, macos, windows]
 author: qianjin
